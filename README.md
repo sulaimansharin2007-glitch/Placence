@@ -56,3 +56,4 @@ npm run dev
 - **Gap Analysis:** Identifies weaknesses and provides actionable suggestions.
 - **Modern UI:** Responsive, minimalist design with smooth animations.
 "# Placence" 
+"# Placence" 
